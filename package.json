@@ -52,5 +52,6 @@
     "babel-loader": "^8.1.0",
     "react-is": "^16.13.1",
     "react-popper": "^2.2.3"
-  }
+  },
+  "license": "MIT"
 }
